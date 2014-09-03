@@ -1,0 +1,15 @@
+#contain {
+	width: 480px;
+    height: 432px;
+	margin: 0 auto;
+	position: relative;
+}
+canvas{
+	position:absolute;
+	top:0;
+    left:0;
+	background:transparent;
+} 
+#mainCanvas{
+	background-color: #f2e5b9
+}
